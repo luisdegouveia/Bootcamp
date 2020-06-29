@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0%;
+    display: block;
+}
+
+#header{
+    background-color: #35F5D8;
+    padding: 20px;
+}
+
+nav{
+    background-color: #F87353;
+    padding: 20px;
+}
+
+#first-section{
+    background-color: #FFFD00;
+    padding: 20px;
+}
+
+#first-article{
+    background-color: #FFB300;
+    margin-bottom: 10px;
+}
+
+#second-article{
+    background-color: #FFB300;
+    margin-top: 10px;
+}
+
+aside{
+    background-color: #B1FFB3;
+    padding: 20px;
+}
+
+footer{
+    background-color: #00FAFF;
+    padding: 20px;
+}
